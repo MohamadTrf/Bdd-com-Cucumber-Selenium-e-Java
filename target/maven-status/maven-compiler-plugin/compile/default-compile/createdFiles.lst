@@ -1,0 +1,6 @@
+br\ce\mhtarif\entidades\NotaAluguel.class
+br\ce\mhtarif\servicos\AluguelService.class
+br\ce\mhtarif\entidades\TipoAluguel.class
+br\ce\mhtarif\utils\DateUtils.class
+br\ce\mhtarif\entidades\Filme.class
+br\ce\mhtarif\servicos\AluguelService$1.class
